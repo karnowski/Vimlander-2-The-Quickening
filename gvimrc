@@ -1,5 +1,5 @@
 " Set the guifont
-  set guifont=Monaco:h12
+  set guifont=Monaco:h15
 
   set antialias
 
